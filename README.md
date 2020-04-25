@@ -1,3 +1,4 @@
 # winstuff
 **Chocolatey**
-Powershell script to install Chocolatey and some apps for faster deployment on windows
+
+Folder contain Powershell scripts to run Chocolatey and some apps for faster deployment on windows
