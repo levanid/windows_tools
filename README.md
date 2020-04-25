@@ -8,4 +8,6 @@ You might need to enable script running via `powershell -Command Set-ExecutionPo
 
 **Remove_IE_Send_Feedback_Smiley.reg** - removes yellow smiley in Internet Explorer 11
 
+**winrar** contains theme and settings.reg for 1-click import
+
 
